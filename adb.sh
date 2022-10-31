@@ -1,2 +1,2 @@
-#install adb (install home brew first)
-brew cask install android-platform-tools
+#install adb (install macports first)
+sudo port install android-platform-tools
